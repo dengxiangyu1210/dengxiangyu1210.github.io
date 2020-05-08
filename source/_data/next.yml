@@ -12,8 +12,8 @@ subtitle: ようこそ、皆様
 description: 中国人作った鉄道や電車関連したブログです
 keywords:
 author: "Honitohi Moyu"
-language: ja-JP
-timezone: Asia/Tokyo
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
