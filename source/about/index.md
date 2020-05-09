@@ -1,7 +1,8 @@
 ---
-title: 简历
+title: お問い合わせ
 date: 2020-05-08 20:03:00
 type: "about"
 ---
 
-我的简历
+E-mail: dengxiangyu1210@outlook.com
+Discord: HonitohiMoyu#6057
