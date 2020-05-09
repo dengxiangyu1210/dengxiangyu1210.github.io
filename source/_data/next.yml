@@ -17,7 +17,7 @@ timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://dengxiangyu1210.github.io
+url: http://jp.denshakai.club
 root: /
 permalink: posts/:url.html
 permalink_defaults:
