@@ -13,7 +13,7 @@ description: 中国人作った鉄道や電車関連したブログです
 keywords:
 author: "Honitohi Moyu"
 language: zh-CN
-timezone: Asia/Shanghai
+timezone: Asia/Tokyo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
