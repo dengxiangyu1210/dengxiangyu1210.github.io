@@ -7,17 +7,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 日本デンシャカイ
-subtitle: ようこそ、皆様
-description: 中国人作った鉄道や電車関連したブログです
+title: 九条ほに駅
+subtitle: 欢迎！
+description: 感谢乘车！
 keywords:
 author: "Honitohi Moyu"
 language: zh-CN
-timezone: Asia/Tokyo
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://jp.denshakai.club
+url: http://rapid.kujohoni.cn
 root: /
 permalink: posts/:url.html
 permalink_defaults:
@@ -335,7 +335,9 @@ links_settings:
   layout: inline
 
 links:
-  Ahaochan: http://blog.ahao.moe
+  主站(Chinese): http://kujohoni.cn
+  English: http://en.kujohoni.cn
+  日本語: http://jp.kujohoni.cn
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
