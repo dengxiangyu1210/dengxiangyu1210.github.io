@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>九条ほに駅</title>
+    <link>http://rapid.kujohoni.cn/</link>
+    
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>感谢乘车！</description>
+    <pubDate>Sun, 07 Jun 2020 00:22:35 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何制作方向幕？</title>
+      <link>http://rapid.kujohoni.cn/posts/houkoumaku.html</link>
+      <guid>http://rapid.kujohoni.cn/posts/houkoumaku.html</guid>
+      <pubDate>Sat, 06 Jun 2020 00:15:19 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;5月30日到6月5日，我因为身体不适意外获得了一周的长假。在此期间，一直在找点儿什么事做，看见油管上有人自己动手制作了方向幕，决定自己也做一个。&lt;br&gt;需要用到的材料：A4纸、电脑、打印机、废旧的纸盒、吸管或筷子等较细的棍状物体、双面胶/透明胶。&lt;br&gt;&lt;img data-
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>5月30日到6月5日，我因为身体不适意外获得了一周的长假。在此期间，一直在找点儿什么事做，看见油管上有人自己动手制作了方向幕，决定自己也做一个。<br>需要用到的材料：A4纸、电脑、打印机、废旧的纸盒、吸管或筷子等较细的棍状物体、双面胶/透明胶。<br><img data-src="https://www.kujohoni.cn/wp-content/uploads/2020/06/DSC_0326-scaled-e1591361181815.jpg" alt="1"></p>]]></content:encoded>
+      
+      <comments>http://rapid.kujohoni.cn/posts/houkoumaku.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>大家好</title>
+      <link>http://rapid.kujohoni.cn/posts/hello.html</link>
+      <guid>http://rapid.kujohoni.cn/posts/hello.html</guid>
+      <pubDate>Sun, 24 May 2020 03:45:14 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;h1 id=&quot;你好！&quot;&gt;&lt;a href=&quot;#你好！&quot; class=&quot;headerlink&quot; title=&quot;你好！&quot;&gt;&lt;/a&gt;你好！&lt;/h1&gt;&lt;p&gt;使用GitHub和Hexo搭建的九条ほに中文极速站终于开业啦！&lt;br&gt;以后配置不高或者网络不好的电脑也可以访问这个网站啦&lt;br&gt;请多
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<h1 id="你好！"><a href="#你好！" class="headerlink" title="你好！"></a>你好！</h1><p>使用GitHub和Hexo搭建的九条ほに中文极速站终于开业啦！<br>以后配置不高或者网络不好的电脑也可以访问这个网站啦<br>请多多关照！</p>]]></content:encoded>
+      
+      <comments>http://rapid.kujohoni.cn/posts/hello.html#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
